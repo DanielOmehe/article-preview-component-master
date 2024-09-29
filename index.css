@@ -424,7 +424,7 @@ body {
 
     .article-preview-component {
       width: 80%;
-      height: 65%;
+      height: 68%;
       flex-direction: column;
     }
 
@@ -438,11 +438,11 @@ body {
     .article-preview-content {
       height: 60%;
       width: 100%;
-      padding: 1.5rem 2rem;
+      padding: 1rem 2rem;
     }
 
     .article-preview-content h2 {
-      font-size: 1.1rem;
+      font-size: 1rem;
       line-height: 1.5rem;
       margin-bottom: 1rem;
     }
@@ -451,7 +451,7 @@ body {
       font-size: 0.8rem;
       line-height: 1.2rem;
       padding-right: 1rem;
-      margin-bottom: 1.5rem;
+      margin-bottom: 1rem;
     }
   }
 
