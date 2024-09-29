@@ -463,7 +463,7 @@ body {
 
     .article-preview-component {
       width: 85%;
-      height: 72%;
+      height: 75%;
       flex-direction: column;
     }
 
@@ -502,7 +502,7 @@ body {
 
     .article-preview-component {
       width: 90%;
-      height: 72%;
+      height: 75%;
       flex-direction: column;
     }
 
