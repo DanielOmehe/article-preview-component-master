@@ -463,7 +463,7 @@ body {
 
     .article-preview-component {
       width: 85%;
-      height: 75%;
+      height: 78%;
       flex-direction: column;
     }
 
@@ -482,7 +482,7 @@ body {
 
     .article-preview-content h2 {
       font-size: 1rem;
-      line-height: 1.5rem;
+      line-height: 1.3rem;
       margin-bottom: 1rem;
     }
 
@@ -502,7 +502,7 @@ body {
 
     .article-preview-component {
       width: 90%;
-      height: 75%;
+      height: 78%;
       flex-direction: column;
     }
 
@@ -521,7 +521,7 @@ body {
 
     .article-preview-content h2 {
       font-size: 1rem;
-      line-height: 1.5rem;
+      line-height: 1.3rem;
       margin-bottom: 1rem;
     }
 
