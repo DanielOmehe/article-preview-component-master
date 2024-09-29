@@ -506,6 +506,13 @@ body {
       flex-direction: column;
     }
 
+    .article-preview-author {
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+  gap: 2rem;
+}
+
     .article-preview-component .image-drawers {
       width: 100%;
       height: 40%;
